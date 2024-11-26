@@ -1,0 +1,14 @@
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\bin\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.exe
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\bin\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.deps.json
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\bin\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.runtimeconfig.json
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\bin\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.runtimeconfig.dev.json
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\bin\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.dll
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\bin\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.pdb
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\obj\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\obj\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\obj\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\obj\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.AssemblyInfo.cs
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\obj\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\obj\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.dll
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\obj\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.pdb
+C:\Users\90537\source\repos\OgrenciDersYonetimSistemi\OgrenciDersYonetimSistemi\obj\Debug\netcoreapp3.1\OgrenciDersYonetimSistemi.genruntimeconfig.cache
